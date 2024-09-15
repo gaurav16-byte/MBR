@@ -1,0 +1,3 @@
+The script written by me has both the options for automatically reading the MBR sector. It is commented out because i have a GPT system. You can add your own mbr sector hex data in the function.
+
+This code was written by me 3-4 months back and i have technically matured a lot in terms of writing scripts. This code is awful if i consider my current standards, but i wouldn't redesign it and waste my time on it because in my mind i know how this works.
